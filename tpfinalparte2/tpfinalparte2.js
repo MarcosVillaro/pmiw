@@ -2,7 +2,7 @@
 //comision 1
 //Marcos Villaro
 //legajo: 119169/9
-//link a video: https://youtu.be/cPHPoPSyJgg
+//link a video: https://youtu.be/CY8n8sX01jA
 
 
 let objJuego;
